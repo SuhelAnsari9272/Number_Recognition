@@ -1,0 +1,1 @@
+Run the image_generator present in utils to generate images.

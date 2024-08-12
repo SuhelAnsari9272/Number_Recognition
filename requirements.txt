@@ -1,0 +1,10 @@
+pillow
+inflect
+random
+numpy
+pandas
+matplotlib.pyplot
+tensorflow
+io
+flask
+sklearn
