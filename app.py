@@ -7,7 +7,7 @@ import io
 app = Flask(__name__)
 
 # Load the trained model
-model = load_model('number_recognition_cnn.h5')
+model = load_model('final_model_number_recognition_cnn.h5')
 
 # Define a function to preprocess the image
 def preprocess_image(img):
